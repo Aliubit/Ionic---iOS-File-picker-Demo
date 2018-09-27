@@ -1,0 +1,7 @@
+{
+  "name": "myAppFileUploadDownload",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
